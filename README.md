@@ -11,6 +11,7 @@ Projeto completo de análise de dados da empresa fictícia **Cyclistic**, com fo
 ![Dashboard Tableau]([dashboar_rev26052025v01.png])
 
 
+
 ---
 
 ## 🧠 Objetivo
