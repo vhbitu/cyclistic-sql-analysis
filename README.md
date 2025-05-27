@@ -1,19 +1,19 @@
-# 🚴 Cyclistic SQL Analysis
+# Cyclistic SQL Analysis
 
 Este repositório contém um estudo de caso completo baseado em dados públicos da empresa fictícia **Cyclistic**, com foco em **análise comportamental de usuários** utilizando **SQL**, **Python** e **Tableau Public**.
 
-## 📌 Objetivo
+## Objetivo
 
 Analisar o comportamento de usuários casuais e membros anuais da Cyclistic para identificar padrões de uso e propor **ações baseadas em dados** que incentivem a conversão de usuários casuais em assinantes.
 
-## 🧰 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - SQL (SQLite)
 - Python (Pandas, SQLite3)
 - Tableau Public (dashboards interativos)
 - Kaggle (ambiente de execução)
 
-## 🧪 Etapas do Projeto
+## Etapas do Projeto
 
 1. **Perguntar (Ask)**: Definição das perguntas de negócio.
 2. **Preparar (Prepare)**: Leitura e padronização dos dados brutos.
@@ -22,11 +22,11 @@ Analisar o comportamento de usuários casuais e membros anuais da Cyclistic para
 5. **Compartilhar (Share)**: Construção do dashboard e comunicação dos resultados.
 6. **Agir (Act)**: Propostas de ações práticas para tomada de decisão.
 
-## 📈 Dashboard Interativo
+## Dashboard Interativo
 
 🔗 [Clique aqui para visualizar o dashboard no Tableau Public](https://public.tableau.com/views/Dash01Cyclingrev01/dash01)
 
-![Dashboard Preview](https://raw.githubusercontent.com/vhbitu/cyclistic-sql-analysis/main/imagens/dashboard_final.png)
+![Dashboard Preview](https://raw.githubusercontent.com/vhbitu/cyclistic-sql-analysis/main/dashboard_final.png)
 
 ## ✅ Ações Recomendadas
 
@@ -45,9 +45,9 @@ cyclistic-sql-analysis/
 ├── README.md # Este arquivo de documentação
 
 
-## ✍️ Autor
+## Autor 
 
-**Victor Hugo Bitu Patrício**  
+**Victor Hugo Bitu Patrício ⛏️**  
 📧 [LinkedIn](https://www.linkedin.com/in/vhbitu/)  
 📊 Data Analyst e entusiasta da ciência de dados
 
