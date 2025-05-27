@@ -26,7 +26,7 @@ Analisar o comportamento de usuários casuais e membros anuais da Cyclistic para
 
 🔗 [Clique aqui para visualizar o dashboard no Tableau Public](https://public.tableau.com/views/Dash01Cyclingrev01/dash01)
 
-![Dashboard Preview](https://raw.githubusercontent.com/vhbitu/cyclistic-sql-analysis/main/dashboar_rev26052025v01.png)
+![Dashboard Preview](https://raw.githubusercontent.com/vhbitu/cyclistic-sql-analysis/main/imagens/dashboard_final.png)
 
 ## ✅ Ações Recomendadas
 
