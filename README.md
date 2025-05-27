@@ -8,7 +8,8 @@ Projeto completo de análise de dados da empresa fictícia **Cyclistic**, com fo
 
 🔗 [Acesse o dashboard interativo no Tableau Public](https://public.tableau.com/views/Dash01Cyclingrev01/dash01)
 
-![Dashboard Tableau]([dashboar_rev26052025v01.png])
+![Dashboard Tableau]([dashboar_rev26052025v01.png](https://public.tableau.com/views/Dash01Cyclingrev01/dash01)])
+
 
 
 
