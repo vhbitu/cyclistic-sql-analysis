@@ -40,8 +40,11 @@ Analisar o comportamento de usuários casuais e membros anuais da Cyclistic para
 
 cyclistic-sql-analysis/
 ├── data/
+
 ├── notebook/ 
+
 ├── imagens/ 
+
 ├── README.md 
 
 
