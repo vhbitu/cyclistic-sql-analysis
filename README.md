@@ -39,10 +39,10 @@ Analisar o comportamento de usuários casuais e membros anuais da Cyclistic para
 ## 📁 Estrutura do Repositório
 
 cyclistic-sql-analysis/
-├── data/ # Dados originais utilizados na análise
-├── notebook/ # Notebook principal do projeto (.ipynb)
-├── imagens/ # Imagens do dashboard e gráficos
-├── README.md # Este arquivo de documentação
+├── data/
+├── notebook/ 
+├── imagens/ 
+├── README.md 
 
 
 ## Autor 
